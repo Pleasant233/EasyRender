@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\c++\tinyRender\line.h(184,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  tinyRender.vcxproj -> D:\c++\tinyRender\x64\Debug\tinyRender.exe
