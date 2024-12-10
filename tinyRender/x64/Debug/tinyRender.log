@@ -1,5 +1,33 @@
 ﻿  main.cpp
-D:\c++\tinyRender\line.h(184,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  (编译源文件“main.cpp”)
-  
-  tinyRender.vcxproj -> D:\c++\tinyRender\x64\Debug\tinyRender.exe
+D:\c++\tinyRender\EasyRender\main.cpp(29,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:         with
+D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:         [
+D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:             T=float
+D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:         with
+D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:         [
+D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:             T=float
+D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:         with
+D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:         [
+D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:             T=float
+D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:         with
+D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:         [
+D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:             T=float
+D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:         with
+D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:         [
+D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:             T=float
+D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:         with
+D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:         [
+D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:             T=float
+D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:         ]
+  tinyRender.vcxproj -> D:\c++\tinyRender\EasyRender\x64\Debug\tinyRender.exe

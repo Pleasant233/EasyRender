@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\c++\tinyRender\x64\Debug\tinyRender.exe</FullPath>
+      <FullPath>D:\c++\tinyRender\EasyRender\x64\Debug\tinyRender.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
