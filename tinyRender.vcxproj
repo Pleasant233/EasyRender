@@ -127,17 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="geometry.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="modle.cpp" />
     <ClCompile Include="tagimage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="geometry.h" />
-    <ClInclude Include="line.h" />
     <ClInclude Include="model.h" />
-    <ClInclude Include="resource.h" />
     <ClInclude Include="TGAImage.h" />
-    <ClInclude Include="triangle.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="tinyRender.rc" />

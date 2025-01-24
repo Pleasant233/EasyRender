@@ -1,33 +1,87 @@
-﻿  main.cpp
-D:\c++\tinyRender\EasyRender\main.cpp(29,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:         with
-D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:         [
-D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:             T=float
-D:\c++\tinyRender\EasyRender\main.cpp(55,59): warning C4244:         ]
-D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:         with
-D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:         [
-D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:             T=float
-D:\c++\tinyRender\EasyRender\main.cpp(55,35): warning C4244:         ]
-D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:         with
-D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:         [
-D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:             T=float
-D:\c++\tinyRender\EasyRender\main.cpp(71,33): warning C4244:         ]
-D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:         with
-D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:         [
-D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:             T=float
-D:\c++\tinyRender\EasyRender\main.cpp(71,28): warning C4244:         ]
-D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:         with
-D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:         [
-D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:             T=float
-D:\c++\tinyRender\EasyRender\main.cpp(78,56): warning C4244:         ]
-D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
-D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:         with
-D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:         [
-D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:             T=float
-D:\c++\tinyRender\EasyRender\main.cpp(78,21): warning C4244:         ]
+﻿  geometry.cpp
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:         with
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:         and
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:             t=float
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,66): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:         with
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:         and
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:             t=float
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,74): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:         with
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:         and
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:             t=float
+D:\c++\tinyRender\EasyRender\geometry.cpp(8,82): warning C4244:         ]
+  main.cpp
+D:\c++\tinyRender\EasyRender\main.cpp(14,17): warning C4305: “参数”: 从“double”到“t”截断
+D:\c++\tinyRender\EasyRender\main.cpp(14,17): warning C4305:         with
+D:\c++\tinyRender\EasyRender\main.cpp(14,17): warning C4305:         [
+D:\c++\tinyRender\EasyRender\main.cpp(14,17): warning C4305:             t=float
+D:\c++\tinyRender\EasyRender\main.cpp(14,17): warning C4305:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(15,25): warning C4305: “参数”: 从“double”到“t”截断
+D:\c++\tinyRender\EasyRender\main.cpp(15,25): warning C4305:         with
+D:\c++\tinyRender\EasyRender\main.cpp(15,25): warning C4305:         [
+D:\c++\tinyRender\EasyRender\main.cpp(15,25): warning C4305:             t=float
+D:\c++\tinyRender\EasyRender\main.cpp(15,25): warning C4305:         ]
+D:\c++\tinyRender\EasyRender\main.cpp(61,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(68,96): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(68,75): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\c++\tinyRender\EasyRender\main.cpp(68,54): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\c++\tinyRender\EasyRender\geometry.h(21,74): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\geometry.h(21,74): warning C4244:         with
+D:\c++\tinyRender\EasyRender\geometry.h(21,74): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.h(21,74): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\geometry.h(21,74): warning C4244:         ]
+  (编译源文件“main.cpp”)
+      D:\c++\tinyRender\EasyRender\geometry.h(21,74):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\c++\tinyRender\EasyRender\main.cpp(43,6):
+          查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+          D:\c++\tinyRender\EasyRender\geometry.h(21,13):
+          在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+              D:\c++\tinyRender\EasyRender\main.cpp(57,25):
+              请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+  
+D:\c++\tinyRender\EasyRender\geometry.h(21,67): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\geometry.h(21,67): warning C4244:         with
+D:\c++\tinyRender\EasyRender\geometry.h(21,67): warning C4244:         [
+D:\c++\tinyRender\EasyRender\geometry.h(21,67): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\geometry.h(21,67): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+  modle.cpp
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:         with
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:         [
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:             t=float
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:         and
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:         [
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\modle.cpp(87,67): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:         with
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:         [
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:             t=float
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:         ]
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:         and
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:         [
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:             t=int
+D:\c++\tinyRender\EasyRender\modle.cpp(87,29): warning C4244:         ]
+  tagimage.cpp
+  正在生成代码...
   tinyRender.vcxproj -> D:\c++\tinyRender\EasyRender\x64\Debug\tinyRender.exe
